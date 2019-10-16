@@ -1,5 +1,5 @@
-# flat_json_unflattener
-This is a simple Ruby Gem which Unflattens the Flat JSON data format from the EtherCIS openEHR Clinical Data Repository. It's based on [this Unflattener written in JavaScript for the same purpose](https://github.com/robtweed/qewd-hit-platform/blob/master/openehr-ms/utils/unflatten.js) by [Rob Tweed](https://github.com/robtweed) an independent healthcare developer and key member of the Ripple Foundation.
+# Flat JSON Unflattener
+This is a simple Ruby Gem which Unflattens the Flat JSON data format from the EtherCIS openEHR Clinical Data Repository. It's based on [this Unflattener written in JavaScript for the same purpose](https://github.com/robtweed/qewd-hit-platform/blob/master/openehr-ms/utils/unflatten.js) by [Rob Tweed](https://github.com/robtweed) an independent healthcare developer and key member of the Ripple Foundation. We have more-or-less transliterated the code into Ruby, with a few Rubyisms where felt suitable.
 
 ## Installation
 Add this line to your application's Gemfile:
